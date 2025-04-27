@@ -21,7 +21,7 @@ AiLinks turns long prompts into quick voice notes: **tap → talk → done**.
 Switch between GPT-4o, Claude 3 Sonnet, Gemini 2.5 Pro, DeepSeek V2 (and more) without leaving one ultra-sleek app.
 
 <p align="center">
-  <img src="./screenshot/20250422120918.PNG" alt="AiLinks Screenshot" width="600" />
+  <img src="./screenshot/20250422120918.PNG" alt="AiLinks Screenshot" width="400" />
 </p>
 
 ## ✨ Features

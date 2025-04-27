@@ -19,10 +19,9 @@
   <a href="README.md">English</a> | <b>中文</b> | <a href="README.ja.md">日本語</a>
 </p>
 
-**iPhone 与 iPad 上最流畅的语音优先 AI 工作空间。**
 
 AiLinks 让冗长的提示变成快捷的语音便签：**轻点 → 说话 → 完成**。  
-无需切换应用，即可在 GPT-4o、Claude 3 Sonnet、Gemini 2.5 Pro、DeepSeek V2 等多种模型间一键切换，体验极致流畅。
+无需切换应用，即可在 GPT-4o、Claude-sonnet-3.7、Gemini 2.5 Pro、DeepSeek V2 等世界上最先进的多种模型间一键切换，体验极致流畅。
 
 <p align="center">
   <img src="./screenshot/20250422120918.PNG" alt="AiLinks截图" width="400" />

@@ -15,6 +15,10 @@
   <img src="https://img.shields.io/badge/iOS-17%2B-lightgrey?logo=apple"/>
 </p>
 
+<p align="center">
+  <b>English</b> | <a href="README.zh.md">中文</a> | <a href="README.ja.md">日本語</a>
+</p>
+
 **The smoothest, voice-first workspace to talk with any AI on iPhone & iPad.**
 
 AiLinks turns long prompts into quick voice notes: **tap → talk → done**.  

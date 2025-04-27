@@ -8,7 +8,7 @@
   <a href="https://apps.apple.com/app/ailinks/id6743006772">
     <img src="https://img.shields.io/badge/App%20Store-Download-blue?logo=apple" alt="Download on the App Store"/>
   </a>
-  <a href="https://discord.gg/xxxx">
+  <a href="https://discord.gg/bCdvBdrA">
     <img src="https://img.shields.io/discord/000000000?label=Discord&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <img src="https://img.shields.io/badge/Swift-5.10-orange?logo=swift" alt="Swift Version"/>

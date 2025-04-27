@@ -1,8 +1,8 @@
-# AiLinks 🚀  
-
 <p align="center">
-  <img src="docs/banner.png" alt="AiLinks Banner" width="100%" />
+  <img src="./screenshot/AppIcon1.png" width="120" height="120" alt="AiLinks App Icon" />
 </p>
+
+<h1 align="center">AiLinks — Speak your mind, connect with any AI, faster than ever</h1>
 
 <p align="center">
   <a href="https://apps.apple.com/app/ailinks/id6743006772">

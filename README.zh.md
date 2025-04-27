@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <img src="./screenshot/AppIcon1.png" width="120" height="120" alt="AiLinks App Icon" />
+</p>
+
+<h1 align="center">AiLinks — 畅所欲言，连接任何AI，前所未有的快捷</h1>
+
+<p align="center">
   <a href="https://apps.apple.com/app/ailinks/id6743006772">
     <img src="https://img.shields.io/badge/App%20Store-下载-blue?logo=apple" alt="在App Store上下载"/>
   </a>
@@ -13,6 +19,10 @@
   </a>
   <img src="https://img.shields.io/badge/Swift-5.10-orange?logo=swift" alt="Swift版本"/>
   <img src="https://img.shields.io/badge/iOS-17%2B-lightgrey?logo=apple"/>
+</p>
+
+<p align="center">
+  <a href="README.md">English</a> | <b>中文</b> | <a href="README.ja.md">日本語</a>
 </p>
 
 **iPhone和iPad上最流畅的、以语音为主的AI交互工作空间。**
@@ -53,13 +63,20 @@ AiLinks将冗长的提示转化为快速语音笔记：**点击 → 说话 → �
 | 🎟 终身代币折扣 | 未来应用内代币包永久折扣 |
 | 🛠 每周开发日志 | 每周五收到进度更新 |
 
-## 📦 安装
+## 📦 安装 
 
-> **AiLinks是专有软件。源代码不公开分发。**  
-> 仅可从以下渠道获取应用：
+<p align="center">
+  <a href="https://apps.apple.com/app/ailinks/id6743006772">
+    <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" alt="在App Store上下载" height="50">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://testflight.apple.com/join/XXXXXXXX">
+    <img src="https://developer.apple.com/assets/elements/icons/testflight/testflight-64x64.png" alt="TestFlight测试版" height="50">
+  </a>
+</p>
 
-- **App Store** → <https://apps.apple.com/app/ailinks/id6743006772\>  
-- **TestFlight（公测版）** → <https://testflight.apple.com/join/XXXXXXXX\>
+- **App Store** → <https://apps.apple.com/app/ailinks/id6743006772>  
+- **TestFlight（公测版）** → <https://testflight.apple.com/join/XXXXXXXX>
 
 ## 📚 文档
 
@@ -72,7 +89,7 @@ AiLinks将冗长的提示转化为快速语音笔记：**点击 → 说话 → �
 
 | | |
 | --- | --- |
-| 💬 **Discord** | 加入讨论并为功能投票 |
+| 💬 **Discord** | [加入讨论并为功能投票](https://discord.gg/bCdvBdrA) |
 | 🐦 **X / Twitter** | [@Wishworldbetter](https://x.com/kissWish9) |
 | 📰 **Indie Hackers日志** | 公开构建更新 |
 
@@ -80,7 +97,7 @@ AiLinks将冗长的提示转化为快速语音笔记：**点击 → 说话 → �
 
 **专有软件——保留所有权利**  
 版权所有 © 2025 AiLinks团队。  
-未经授权复制、分发或反向工程本软件是被禁止的。查看[`EULA.md`](EULA.md)了解最终用户条款。
+未经授权复制、分发或反向工程本软件是被禁止的。查看[Terms of Service](https://docs.ailinks.app/terms)了解最终用户条款。
 
 > 在洛杉矶用☕️和🧡制作  
 > *"点击，说话，让AI处理剩下的事情。"* — Wishworldbetter

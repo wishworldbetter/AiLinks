@@ -1,5 +1,5 @@
 
-# AiLinks
+# AiLinks 🚀  
 
 <p align="center">
   <img src="docs/banner.png" alt="AiLinks Banner" width="100%" />
@@ -16,9 +16,8 @@
   <img src="https://img.shields.io/badge/iOS-17%2B-lightgrey?logo=apple"/>
 </p>
 
----
 
-# AiLinks 🚀  
+
 **The smoothest, voice-first workspace to talk with any AI on iPhone & iPad**
 
 AiLinks turns long prompts into quick voice notes: **tap → talk → done**.  
@@ -26,7 +25,7 @@ Switch between GPT-4o, Claude 3 Sonnet, Gemini 2.5 Pro, DeepSeek V2 (and more) w
 
 ![AiLinks Screenshot](docs/screenshot-chat.png)
 
----
+
 
 ## ✨ Features
 
@@ -50,7 +49,7 @@ Switch between GPT-4o, Claude 3 Sonnet, Gemini 2.5 Pro, DeepSeek V2 (and more) w
 - 🌐 **Native Mac app** — full SwiftUI desktop experience.  
 - 🖼 **MCP uploads** — send images for multimodal reasoning.
 
----
+
 
 ## 🐣 Early Bird Special
 
@@ -61,7 +60,7 @@ Switch between GPT-4o, Claude 3 Sonnet, Gemini 2.5 Pro, DeepSeek V2 (and more) w
 | 🎟 Lifetime token discounts | Permanent % off future in-app token bundles. |
 | 🛠 Weekly dev log | Receive progress updates every Friday. |
 
----
+
 
 ## 📦 Installation
 
@@ -75,9 +74,6 @@ or join the public **TestFlight**:
 ```text
 https://testflight.apple.com/join/XXXXXXXX
 ```
-
-
-
 
 
 ## 📚 Documentation

@@ -57,10 +57,17 @@ Switch between GPT-4o, Claude 3 Sonnet, Gemini 2.5 Pro, DeepSeek V2 (and more) w
 | 🎟 Lifetime token discounts | Permanent % off future in-app token bundles |
 | 🛠 Weekly dev log | Receive progress updates every Friday |
 
-## 📦 Installation
+## 📦 Installation 
 
-> **AiLinks is proprietary software. Source code is not distributed.**  
-> Get the app exclusively from:
+<p align="center">
+  <a href="https://apps.apple.com/app/ailinks/id6743006772">
+    <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" alt="Download on the App Store" height="50">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://testflight.apple.com/join/XXXXXXXX">
+    <img src="https://developer.apple.com/assets/elements/icons/testflight/testflight-64x64.png" alt="TestFlight Beta" height="50">
+  </a>
+</p>
 
 - **App Store** → <https://apps.apple.com/app/ailinks/id6743006772>  
 - **TestFlight (public beta)** → <https://testflight.apple.com/join/XXXXXXXX>
@@ -76,7 +83,7 @@ Switch between GPT-4o, Claude 3 Sonnet, Gemini 2.5 Pro, DeepSeek V2 (and more) w
 
 | | |
 | --- | --- |
-| 💬 **Discord** | Join discussions & vote on features |
+| 💬 **Discord** | [Join discussions & vote on features](https://discord.gg/bCdvBdrA) |
 | 🐦 **X / Twitter** | [@Wishworldbetter](https://x.com/kissWish9) |
 | 📰 **Indie Hackers log** | Build-in-public updates |
 
@@ -84,7 +91,7 @@ Switch between GPT-4o, Claude 3 Sonnet, Gemini 2.5 Pro, DeepSeek V2 (and more) w
 
 **Proprietary — All rights reserved**  
 Copyright © 2025 AiLinks Team.  
-Unauthorized copying, distribution, or reverse-engineering of this software is prohibited. See [`EULA.md`](EULA.md) for end-user terms.
+Unauthorized copying, distribution, or reverse-engineering of this software is prohibited. See [Terms of Service](https://docs.ailinks.app/terms) for end-user terms.
 
 > Made with ☕️ & 🧡 in Los Angeles  
-> *“Tap, talk, and let AI handle the rest.”* — Wishworldbetter
+> *"Tap, talk, and let AI handle the rest."* — Wishworldbetter

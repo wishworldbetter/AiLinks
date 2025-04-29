@@ -83,7 +83,7 @@ Switch between GPT-4o, Claude 3 Sonnet, Gemini 2.5 Pro, DeepSeek V2 (and more) w
 
 | | |
 | --- | --- |
-| 💬 **Discord** | [Join discussions & vote on features](https://discord.gg/bCdvBdrA) |
+| 💬 **Discord** | [Join discussions & vote on features](https://discord.gg/arnvHF4hdX) |
 | 🐦 **X / Twitter** | [@Wishworldbetter](https://x.com/kissWish9) |
 | 📰 **Indie Hackers log** | Build-in-public updates |
 

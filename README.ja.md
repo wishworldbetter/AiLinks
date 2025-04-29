@@ -8,7 +8,7 @@
   <a href="https://apps.apple.com/app/ailinks/id6743006772">
     <img src="https://img.shields.io/badge/App%20Store-ダウンロード-blue?logo=apple" alt="App Storeでダウンロード"/>
   </a>
-  <a href="https://discord.gg/bCdvBdrA">
+  <a href="https://discord.gg/arnvHF4hdX">
     <img src="https://img.shields.io/discord/000000000?label=Discord&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <img src="https://img.shields.io/badge/Swift-5.10-orange?logo=swift" alt="Swiftバージョン"/>
@@ -83,7 +83,7 @@ GPT-4o、Claude 3 Sonnet、Gemini 2.5 Pro、DeepSeek V2など、世界最先端�
 
 | | |
 | --- | --- |
-| 💬 **Discord** | [ディスカッション＆機能投票に参加](https://discord.gg/bCdvBdrA) |
+| 💬 **Discord** | [ディスカッション＆機能投票に参加](https://discord.gg/arnvHF4hdX) |
 | 🐦 **X / Twitter** | [@Wishworldbetter](https://x.com/kissWish9) |
 | 📰 **Indie Hackersログ** | 開発進捗を公開中 |
 

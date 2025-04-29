@@ -82,7 +82,7 @@ AiLinks 让冗长的提示变成快捷的语音便签：**轻点 → 说话 → 
 
 | | |
 | --- | --- |
-| 💬 **Discord** | [加入讨论与功能投票](https://discord.gg/bCdvBdrA) |
+| 💬 **Discord** | [问题社区反馈](https://discord.gg/arnvHF4hdX) |
 | 🐦 **X / Twitter** | [@Wishworldbetter](https://x.com/kissWish9) |
 | 📰 **Indie Hackers 日志** | 公开构建进展 |
 
